@@ -1,0 +1,2 @@
+# Don't want to have picture files like png or jpeg in repo
+ProtoTypes/*.png
